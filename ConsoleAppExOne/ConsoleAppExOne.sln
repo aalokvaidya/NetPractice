@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppExOne", "ConsoleAppExOne\ConsoleAppExOne.csproj", "{A990E364-1DC7-4F1A-ADD9-52E68F5BB329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryExOne", "ClassLibraryExOne\ClassLibraryExOne.csproj", "{CACCA470-EA5B-4B3D-A608-51ACAA363E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A990E364-1DC7-4F1A-ADD9-52E68F5BB329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A990E364-1DC7-4F1A-ADD9-52E68F5BB329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A990E364-1DC7-4F1A-ADD9-52E68F5BB329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A990E364-1DC7-4F1A-ADD9-52E68F5BB329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACCA470-EA5B-4B3D-A608-51ACAA363E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACCA470-EA5B-4B3D-A608-51ACAA363E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACCA470-EA5B-4B3D-A608-51ACAA363E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACCA470-EA5B-4B3D-A608-51ACAA363E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29905B8-CC14-498F-95C8-AE517B892506}
+	EndGlobalSection
+EndGlobal
